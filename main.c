@@ -1,5 +1,5 @@
 #include <stdio.h>
-//猜數字
+//猜數字https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30784
 int main(){
     int num[4];
     int ans[4];
